@@ -1,0 +1,36 @@
+table {
+    
+    margin-right: 140px;
+font-family: Arial, Helvetica, sans-serif;  
+   
+    overflow: hidden;
+    width: 200px;
+  margin-top: 172px;
+  margin-left: 40px;
+  
+  }
+  li,
+  p,
+  a,
+  td {
+    font-size:20px;
+    line-height: 1;
+  }
+  thead {
+    font-size: 14px;
+    background-color:  #b3b3ff;
+    color: black;
+  }
+  th,
+  td {
+   
+    min-width: 10rem;
+  
+    line-height: 1;
+    color:"black"
+  }
+  td {
+    font-size: 20px ;
+    align-items: center;
+    text-align: center;
+  }
